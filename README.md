@@ -16,6 +16,9 @@
 
 *   📋 **【便捷】一键复制为Markdown**：在页面右上角生成一个悬浮的“复制为MD”按钮。只需轻轻一点，即可将格式优美的完整纪要内容（包括标题、加粗、列表等）完整复制到剪贴板，方便您粘贴到任何支持Markdown的笔记应用中（如飞书文档、Typora、Notion等）。
 
+  ![image](https://github.com/user-attachments/assets/953c8996-bb40-46af-938a-38033f8f703d)
+
+
 ---
 
 ## 🚀 使用方法 (How to Use)
