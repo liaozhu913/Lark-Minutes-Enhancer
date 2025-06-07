@@ -27,7 +27,8 @@
 1.  确保您的浏览器已经安装了油猴（Tampermonkey）或暴力猴（Violentmonkey）等用户脚本管理器。
 2.  点击本页面上方的绿色“安装此脚本”按钮。
 3.  在打开的安装页面中点击“安装”。
-4.  完成！现在打开任意一个飞书妙记页面（如：https://larkcommunity.feishu.cn/minutes/obcnwz792kwx2qry6t738783?from=from_copylink），所有功能将自动生效。
+4.  完成！现在打开任意一个飞书妙记页面（如：**[颠覆传统编程！Cursor 1.0+Claude Task Master+Gemini 2.5 Pro 0605开发效率提升10倍！](https://larkcommunity.feishu.cn/minutes/obcnwz792kwx2qry6t738783?from=from_copylink)** 页面进行反馈。
+*   也欢迎您直接访问我们的 **[GitHub仓库主页](https://github.com/liaozhu913/Lark-Minutes-Enhancer)**https://larkcommunity.feishu.cn/minutes/obcnwz792kwx2qry6t738783?from=from_copylink），所有功能将自动生效。
 
 ---
 
