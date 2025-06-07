@@ -1,17 +1,17 @@
 // ==UserScript==
 // @name         飞书妙记增强脚本
 // @name:en      Lark Minutes Enhancer
-// @namespace    https://github.com/liaozhu913/userscripts  // 这里可以换成你的GitHub用户名
+// @namespace    https://github.com/liaozhu913/Lark-Minutes-Enhancer // 这里可以换成你的GitHub用户名
 // @version      1.4
 // @description  移除飞书妙记额度遮罩、自动展开纪要、一键复制为Markdown格式。
 // @description:en Remove Lark Minutes quota mask, auto-expand chapters, and copy summary as Markdown.
-// @author       你的名字或ID  // 在这里写上你的大名！
+// @author       liaozhu913  // 在这里写上你的大名！
 // @match        https://larkcommunity.feishu.cn/minutes/*
 // @grant        GM_addStyle
 // @run-at       document-end
 // @icon         https://p3-passport.byteimg.com/img/user-avatar/3688126e855059528f8303024856f642~100x100.awebp
-// @homepageURL  https://github.com/你的用户名/你的仓库名   // 脚本主页，后面会创建
-// @supportURL   https://github.com/你的用户名/你的仓库名/issues // 用户反馈问题的地址
+// @homepageURL  https://github.com/liaozhu913/Lark-Minutes-Enhancer   // 脚本主页，后面会创建
+// @supportURL   https://github.com/liaozhu913/Lark-Minutes-Enhancer/issues // 用户反馈问题的地址
 // @downloadURL  https://greasyfork.org/scripts/你的脚本ID/code/你的脚本名.user.js // Greasy Fork会自动生成，发布后可以填上
 // @updateURL    https://greasyfork.org/scripts/你的脚本ID/code/你的脚本名.meta.js  // Greasy Fork会自动生成，发布后可以填上
 // ==/UserScript==
