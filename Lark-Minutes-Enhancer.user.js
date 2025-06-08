@@ -6,7 +6,7 @@
 // @description  移除飞书妙记额度遮罩、自动展开纪要、一键复制为Markdown格式。
 // @description:en Remove Lark Minutes quota mask, auto-expand chapters, and copy summary as Markdown.
 // @author       liaozhu913  // 在这里写上你的大名！
-// @match        https://larkcommunity.feishu.cn/minutes/*
+// @match        https://*.feishu.cn/minutes/*
 // @grant        GM_addStyle
 // @run-at       document-end
 // @icon         https://raw.githubusercontent.com/liaozhu913/Lark-Minutes-Enhancer/refs/heads/main/icon.png
