@@ -2,7 +2,7 @@
 // @name         飞书妙记增强脚本
 // @name:en      Lark-Minutes-Enhancer
 // @namespace    https://github.com/liaozhu913/Lark-Minutes-Enhancer // 这里可以换成你的GitHub用户名
-// @version      1.5
+// @version      1.6
 // @description  移除飞书妙记额度遮罩、自动展开纪要、一键复制为Markdown格式。
 // @description:en Remove Lark Minutes quota mask, auto-expand chapters, and copy summary as Markdown.
 // @author       liaozhu913  // 在这里写上你的大名！
