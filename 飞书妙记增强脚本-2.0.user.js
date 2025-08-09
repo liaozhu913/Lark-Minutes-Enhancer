@@ -2,8 +2,8 @@
 // @name         飞书妙记增强脚本
 // @namespace    https://github.com/liaozhu913/Lark-Minutes-Enhancer
 // @version      2.0
-// @description  [v2.0] 新增长按功能！文字记录页面单击"复制为MD"按钮复制纯文本，长按1秒复制含说话人和时间戳的完整信息。完美解决"文字记录"因DOM复用导致的复制不全问题。
-// @author       liaozhu913
+// @description  [v2.0] 新增长按、编辑功能！感谢@船长技术支持。文字记录页面单击"复制为MD"按钮复制纯文本，长按1秒复制含说话人和时间戳的完整信息。
+// @author       liaozhu913, @船长
 // @match        https://*.feishu.cn/minutes/*
 // @grant        GM_addStyle
 // @run-at       document-end
